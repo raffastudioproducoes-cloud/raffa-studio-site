@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Local environment files
+.env*
+!.env.example
+
+# Testing and coverage
+coverage/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
